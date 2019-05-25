@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#92152e</color>
+    <color name="colorPrimaryDark">	#92152e</color>
+    <color name="colorAccent">#47181e</color>
+    <color name="Bottm">#ffca65</color>
+    <color name="textColor">#94734A</color>
+
+</resources>
